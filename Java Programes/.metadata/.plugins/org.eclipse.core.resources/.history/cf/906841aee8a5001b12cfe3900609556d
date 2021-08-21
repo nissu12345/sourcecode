@@ -1,0 +1,74 @@
+package ArrayList;
+
+import java.util.ArrayList;
+
+public class Examples {
+
+	public static void main(String[] args) {
+
+
+		/*
+		 * ways to declare the arrayList
+		 */
+	
+	
+	
+	ArrayList<String> Al1  = new ArrayList<>();
+	
+	ArrayList<Integer> Al2  = new ArrayList<>(20);
+	
+	ArrayList<String> Al3  = new ArrayList<>(Al1);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+
+}

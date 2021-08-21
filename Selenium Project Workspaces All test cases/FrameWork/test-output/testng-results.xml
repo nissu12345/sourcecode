@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-20T11:58:08 IST" name="Default suite" finished-at="2020-12-20T11:58:08 IST" duration-ms="109">
+    <groups>
+      <group name="Smoke">
+        <method signature="TestNG4.APILoginHome()[pri:0, instance:Part18.TestNG4@87a85e1]" name="APILoginHome" class="Part18.TestNG4"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2020-12-20T11:58:08 IST" name="Default test" finished-at="2020-12-20T11:58:08 IST" duration-ms="109">
+      <class name="Part18.TestNG4">
+        <test-method is-config="true" signature="Bclass()[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="Bclass" finished-at="2020-12-20T11:58:08 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bclass -->
+        <test-method signature="APILoginHome()[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="APILoginHome" finished-at="2020-12-20T11:58:08 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILoginHome -->
+        <test-method signature="WebLoginHome()[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="WebLoginHome" finished-at="2020-12-20T11:58:08 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginHome -->
+        <test-method signature="zmultimethods(java.lang.String, java.lang.String)[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="zmultimethods" data-provider="getData" finished-at="2020-12-20T11:58:08 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstuname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstpass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zmultimethods -->
+        <test-method signature="zmultimethods(java.lang.String, java.lang.String)[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="zmultimethods" data-provider="getData" finished-at="2020-12-20T11:58:08 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secuname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secpass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zmultimethods -->
+        <test-method signature="zmultimethods(java.lang.String, java.lang.String)[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="zmultimethods" data-provider="getData" finished-at="2020-12-20T11:58:08 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirduname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passuname]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zmultimethods -->
+        <test-method signature="MobileLoginHome()[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="MobileLoginHome" finished-at="2020-12-20T11:58:08 IST" depends-on-methods="Part18.TestNG4.WebLoginHome" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHome -->
+        <test-method is-config="true" signature="Afclass()[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="Afclass" finished-at="2020-12-20T11:58:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afclass -->
+        <test-method is-config="true" signature="last()[pri:0, instance:Part18.TestNG4@87a85e1]" started-at="2020-12-20T11:58:08 IST" name="last" finished-at="2020-12-20T11:58:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- Part18.TestNG4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

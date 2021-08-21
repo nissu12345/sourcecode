@@ -1,0 +1,3 @@
+for inserting we will use the put method
+for copying a map into another we will use .putall method 
+we use removeAll,clear methods to delete the al and ll but in hashmap we have only clear method

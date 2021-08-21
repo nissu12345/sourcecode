@@ -1,0 +1,4 @@
+08:11:08.761 [main] ERROR Pac1.Test1-errro case 2 
+08:11:08.777 [main] INFO  Pac1.Test1-general info 2
+08:11:08.777 [main] DEBUG Pac1.Test1-debug the case 2
+08:11:08.777 [main] FATAL Pac1.Test1-fatal error case 2

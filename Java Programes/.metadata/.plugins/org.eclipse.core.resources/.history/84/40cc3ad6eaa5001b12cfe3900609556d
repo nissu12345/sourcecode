@@ -1,0 +1,124 @@
+package ArrayList;
+
+import java.util.ArrayList;
+
+public class Examples {
+
+	public static void main(String[] args) {
+
+
+		/*
+		 * ways to declare the arrayList
+		 */
+	
+	
+	
+	ArrayList<String> Al1  = new ArrayList<>();
+	
+	Al1.add("apple");
+	Al1.add("banana");
+	Al1.add("grape");
+	Al1.add("lemon");
+	
+	
+	
+	ArrayList<Integer> Al2  = new ArrayList<>(20);
+	
+	ArrayList<String> Al3  = new ArrayList<>(Al1);
+	
+	
+	/*
+	 * how to increase the current capacity of the ArrayList
+	 */
+	
+	
+	Al1.ensureCapacity(30);
+	
+	/*
+	 * initial capacity of ArrayList is 10 and we have increased it to 30
+	 * 
+	 * memory gets increased automatically when ArrayList size exceeds it max limit.
+	 * this method is used to increase the size manually
+	 * 
+	 */
+	
+	
+	
+	/*
+	 * how to reduce the size of the ArrayList
+	 */
+	
+	
+	
+	Al1.trimToSize();
+	
+	/*
+	 * this will change the size to its default value.
+	 * this is used by the developers to reduce the  Storage area of ArrayList.
+	 */
+	
+	
+	/*
+	 * how to find the number of elements in a ArrayList
+	 * 
+	 */
+int s =	Al1.size();
+
+System.out.println(Al1);
+
+System.out.println(s);
+	
+	
+	/*
+	 * how to find an given array is empty or not
+	 */
+	
+System.out.println(Al1.isEmpty());
+System.out.println(Al2.isEmpty());
+System.out.println(Al3.isEmpty());
+System.out.println(Al2.size());
+System.out.println(" ");
+/*
+ * this method is returns boolean value,True if the arraylist is empty or
+ *  else false if the arraylist is not empty.
+ *  we can also check it by using .size() method,it returns 0 if the array is empty.
+ *  
+ */
+
+	
+	/*
+	 * hoe to check whether the given element is present in the given arraylist or not
+	 */
+	
+	
+	boolean va = Al1.contains("apple");
+	boolean va = Al1.contains("appi");
+	System.out.println(va );
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+
+}

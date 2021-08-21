@@ -1,0 +1,19 @@
+package HashSet;
+
+import java.util.HashSet;
+
+public class FirstE2e {
+
+	public static void main(String[] args) {
+		
+		HashSet<String> hshst =  new HashSet<String>();
+		hshst.add("Rain");
+		hshst.add("Cold");
+		hshst.add("hot");
+		System.out.println(hshst);
+		
+		hshst.add("add at the end");
+		System.out.println(hshst);
+	}
+
+}

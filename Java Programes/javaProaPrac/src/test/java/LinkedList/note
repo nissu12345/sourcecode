@@ -1,0 +1,2 @@
+to iterate a linkedlist from a specific index value we will use ListIterator(index) method
+to to iterate the linkedlist in reserve order we will use Desecnding iterator

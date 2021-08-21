@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;MouseWindowFrame.Frames&apos; to &apos;FramesTest&apos;&#x0D;&#x0A;- Original project: &apos;MouseAndAll&apos;&#x0D;&#x0A;- Original element: &apos;MouseWindowFrame.Frames&apos;&#x0D;&#x0A;- Renamed element: &apos;MouseWindowFrame.FramesTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Frames&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;MouseWindowFrame{Frames.java[Frames" matchStrategy="1" name="FramesTest" qualified="false" references="true" similarDeclarations="false" stamp="1607229027745" textual="false" version="1.0"/>
+</session>

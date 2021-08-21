@@ -1,0 +1,7 @@
+18:34:04.844 [main] INFO  Package.Test1-Login Done
+18:34:14.724 [main] INFO  Package.Test1-Login Done
+18:34:14.800 [main] INFO  Package.Test1-window closed
+18:34:22.308 [main] INFO  Package.ValidationBar-validated element is displayed
+18:34:29.194 [main] INFO  Package.Validation-homepage landed
+18:34:29.227 [main] INFO  Package.Validation-Text is validated
+18:34:29.413 [AsyncHttpClient-1-6] DEBUG io.netty.buffer.PoolThreadCache-Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6
